@@ -13457,7 +13457,7 @@ class ConfigManager:
         # [System]
         if not self._config.has_section('System'):
             self._config.add_section('System')
-        self._config.set('System', 'version', '4.0')
+        self._config.set('System', 'version', '5.0')
         self._config.set('System', 'developer_mode', 'false')
         
         # [Security] - 使用默认密码的哈希
@@ -33377,7 +33377,7 @@ class ConfigManager:
         # [System]
         if not self._config.has_section('System'):
             self._config.add_section('System')
-        self._config.set('System', 'version', '4.0')
+        self._config.set('System', 'version', '5.0')
         self._config.set('System', 'developer_mode', 'false')
         
         # [Security] - 使用默认密码的哈希
@@ -33559,7 +33559,7 @@ network_rules_file = os.path.join(data_dir, "network_rules.json")
 system_name = "PWOS5"
 developer_mode = False
 # 开发者密码已迁移到 config.ini，此变量仅用于兼容旧代码
-developer_password = "a1b2c3d4e5""
+developer_password = "a1b2c3d4e5"
 
 # 设置控制台标题（EXE专用）
 if os.name == 'nt':
