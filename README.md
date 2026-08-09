@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-green)
 ![License](https://img.shields.io/badge/License-Apache%202.0-yellow)
-![Version](https://img.shields.io/badge/Version-v5.0-red)
+![Version](https://img.shields.io/badge/Version-v4.0-red)
 ![Size](https://img.shields.io/badge/Size-553KB-brightgreen)
 
 > 开源跨平台 Python 全能系统，极速启动，极致轻量，功能完整
@@ -301,7 +301,7 @@ Copyright © 2024-2026 moyixi123-git
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-green)
 ![License](https://img.shields.io/badge/License-Apache%202.0-yellow)
-![Version](https://img.shields.io/badge/Version-v5.0-red)
+![Version](https://img.shields.io/badge/Version-v4.0-red)
 ![Size](https://img.shields.io/badge/Size-553KB-brightgreen)
 
 > Open source cross-platform Python all-in-one system, blazing fast startup, ultra lightweight, full featured
