@@ -8,7 +8,7 @@
 
 > 开源跨平台 Python 全能系统，极速启动，极致轻量，功能完整
 
-🌐 **官方网站**：[pwos.cpolar.top](https://pwos.cpolar.top)
+🌐 **官方网站**：[pwos.cpolar.cn](https://pwos.cpolar.cn)
 
 📧 **联系邮箱**：youismoyixi@qq.com
 
@@ -79,7 +79,7 @@ python PWOS5.py
 
 ### 方式三：EXE 版本（无需 Python）
 
-📥 前往官方网站下载：[pwos.cpolar.top](https://pwos.cpolar.top)
+📥 前往官方网站下载：[pwos.cpolar.cn](https://pwos.cpolar.cn)
 
 ---
 
@@ -282,7 +282,7 @@ Copyright © 2024-2026 moyixi123-git
 
 **维护者**：moyixi123-git
 
-**官方网站**：[pwos.cpolar.top](https://pwos.cpolar.top)
+**官方网站**：[pwos.cpolar.cn](https://pwos.cpolar.cn)
 
 **联系邮箱**：youismoyixi@qq.com
 
@@ -306,7 +306,7 @@ Copyright © 2024-2026 moyixi123-git
 
 > Open source cross-platform Python all-in-one system, blazing fast startup, ultra lightweight, full featured
 
-🌐 **Official Website**: [pwos.cpolar.top](https://pwos.cpolar.top)
+🌐 **Official Website**: [pwos.cpolar.cn](https://pwos.cpolar.cn)
 
 📧 **Contact Email**: youismoyixi@qq.com
 
@@ -377,7 +377,7 @@ python PWOS5.py
 
 ### Method 3: EXE Version (No Python Required)
 
-📥 Download EXE: Visit the official website [pwos.cpolar.top](https://pwos.cpolar.top)
+📥 Download EXE: Visit the official website [pwos.cpolar.cn](https://pwos.cpolar.cn)
 
 ---
 
@@ -580,7 +580,7 @@ Copyright © 2024-2026 moyixi123-git
 
 **Maintainer**: moyixi123-git
 
-**Official Website**: [pwos.cpolar.top](https://pwos.cpolar.top)
+**Official Website**: [pwos.cpolar.cn](https://pwos.cpolar.cn)
 
 **Contact Email**: youismoyixi@qq.com
 
