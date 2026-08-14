@@ -126,6 +126,8 @@ python PWOS5.py
 | `#import 库名` | 导入标准库 |
 | `#sa:0/1(可选)` | 不/以沙盒运行(默认为0) |
 
+注意:新版规则较为严格，main的编号必须是和文件名一样的，比如main为0，那么我的文件名也要叫做0.pwos，当然，编号也可以为字符串，比如我可以叫它为#main hello:，文件名也要叫做hello.pwos
+
 ### Hello World
 
 ```python
@@ -423,8 +425,9 @@ Script files use `.pwos` extension, placed in `scripts/` directory.
 | `#func name:` | Define a function |
 | `#func stop` | End function |
 | `#import lib` | Import standard library |
-| `#sa:0/1(Optional)` | Do not/DO run in sandbox (default is 0) |
+| `#sa:0/1(Optional)` | Do not/Do run in sandbox (default is 0) |
 
+Note: The new version of the rules is stricter. The main number must be the same as the file name. For example, if main is 0, then my file name should also be called 0.pwos. Of course, the number can also be a string. For instance, I can call it #main hello: and the file name should also be called hello.pwos
 ### Hello World
 
 ```python
