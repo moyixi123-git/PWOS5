@@ -124,6 +124,7 @@ python PWOS5.py
 | `#func 函数名:` | 定义函数 |
 | `#func stop` | 结束函数 |
 | `#import 库名` | 导入标准库 |
+| `#sa:0/1(可选)` | 不/以沙盒运行(默认为0) |
 
 ### Hello World
 
@@ -422,6 +423,7 @@ Script files use `.pwos` extension, placed in `scripts/` directory.
 | `#func name:` | Define a function |
 | `#func stop` | End function |
 | `#import lib` | Import standard library |
+| `#sa:0/1(Optional)` | Do not/DO run in sandbox (default is 0) |
 
 ### Hello World
 
